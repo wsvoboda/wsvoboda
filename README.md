@@ -1,4 +1,4 @@
-### Hello! 🙋‍♀️
+### Hello!
 
 My name is Whitney and I am a Full Stack Developer in the Dallas-Ft Worth area. I am currently looking for full-time employment. I'm open to relocation! 
 
