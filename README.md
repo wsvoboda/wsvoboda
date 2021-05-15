@@ -18,4 +18,4 @@ Check out some of my repos and projects! Please reach out if you have questions 
 
 My portfolio can be seen [here](https://devwhitney.com).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/whitney-svoboda-03570896/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/whitney-svoboda-03570896/).
