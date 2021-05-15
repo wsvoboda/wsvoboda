@@ -10,7 +10,7 @@ Check out some of my repos and projects!
 
 🖱️ How to reach me: [LinkedIn](https://www.linkedin.com/in/whitney-svoboda-03570896/).
 
-👩‍💻 My portfolio can be found [here](devwhitney.com).
+👩‍💻 My portfolio can be found [here](https://devwhitney.com).
 
 <!--
 **wsvoboda/wsvoboda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
