@@ -8,7 +8,7 @@ Check out some of my repos and projects! Please reach out if you have questions 
 
 ⚛️ I’m currently learning React.
 
-👷‍♀️ I’m currently working on [American Dominican Tours](https://github.com/wsvoboda/ADTours).
+👷‍♀️ I’m currently working on [a site about astrology](https://github.com/wsvoboda/astrology-site).
 
 ### My Skills 💻
  
