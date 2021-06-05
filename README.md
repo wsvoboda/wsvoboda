@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Whitney and I am a Full Stack Developer in the Dallas-Ft Worth area. I am a graduate of the Colorado School of Mines. I spent almost 9 years in the oil and gas industry before finding my love for coding! 
+My name is Whitney and I am a Full Stack Developer in the Dallas-Ft Worth area. I am a graduate of the Colorado School of Mines. I spent almost 9 years in the oil and gas industry before discovering my love for coding! 
 
 Check out some of my repos and projects! Please reach out if you have questions or comments! I'd love the feedback.
 
