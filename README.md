@@ -6,7 +6,7 @@ Check out some of my repos and projects! Please reach out if you have questions 
 
 ### About Me 👀
 
-⚛️ I’m currently making sites to practice React.
+⚛️ I’m currently making sites to strengthen my knowledge of React. I recently finished creating a site about [astrology](https://wsvoboda.github.io/moonsunstars/).
 
 👷‍♀️ I’m currently working on my capstone project.
 
