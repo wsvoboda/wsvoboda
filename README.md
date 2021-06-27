@@ -6,9 +6,9 @@ Check out some of my repos and projects! Please reach out if you have questions 
 
 ### About Me 👀
 
-⚛️ I’m currently making sites to strengthen my knowledge of React. I recently finished creating a site about [astrology](https://wsvoboda.github.io/moonsunstars/).
+⚛️ I recently finished creating a site about [astrology](https://wsvoboda.github.io/moonsunstars/).
 
-👷‍♀️ I’m currently working on my capstone project.
+👷‍♀️ I just finished my capstone project, [Parking Puppy](https://github.com/wsvoboda/parking-pals).
 
 ### My Skills 💻
  
