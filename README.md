@@ -6,7 +6,7 @@ Check out some of my repos and projects! Please reach out if you have questions 
 
 ### About Me 👀
 
-⚛️ I recently finished creating a site about [astrology](https://wsvoboda.github.io/moonsunstars/).
+⚛️ I recently created a site about astrology called [MoonSunStars](https://wsvoboda.github.io/moonsunstars/).
 
 👷‍♀️ I just finished my capstone project, [Parking Puppy](https://github.com/wsvoboda/parking-pals).
 
