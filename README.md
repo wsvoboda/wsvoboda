@@ -6,9 +6,7 @@ Check out some of my repos and projects! Please reach out if you have questions 
 
 ### About Me 👀
 
-⚛️ I recently created a site about astrology called [MoonSunStars](https://wsvoboda.github.io/moonsunstars/).
-
-👷‍♀️ My teammates and I just finished our capstone project, [Parking Puppy](https://github.com/wsvoboda/parking-pals).
+💵 I work for a fintech startup based in Seattle! I love it! 
 
 ### My Skills 💻
  
