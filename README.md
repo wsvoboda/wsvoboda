@@ -6,7 +6,7 @@ Check out some of my repos and projects! Please reach out if you have questions 
 
 ### About Me 👀
 
-💵 I work for a fintech startup based in Seattle! I love it! 
+💵 I work for a FinTech startup based in Seattle! I love it! 
 
 ### My Skills 💻
  
